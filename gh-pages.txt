@@ -1,0 +1,15 @@
+1. crear branch 'gh-pages', local
+2. editar contenido de la carpeta
+(crear sitio, pasar plantilla, etc)
+3. 'git add .' + 'git commit -m "msg" '
+4. 'git push --set-upstream origin gh-pages'
+(solo una vez si no has hecho el branch)
+5. https://<user>.github.io/<repo>
+
+git branch gh-pages
+git checkout gh-pages
+git push --set-upstream origin gh-pages
+
+https://github.com/josewtf01/links/tree/gh-pages/
+
+https://josewtf01.github.io/links/
